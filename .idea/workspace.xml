@@ -19,17 +19,13 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e371ba3-ac46-4196-9227-7da04e542606" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shixun.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shixun.iml" afterDir="false" />
-    </list>
+    <list default="true" id="2e371ba3-ac46-4196-9227-7da04e542606" name="变更" comment="feat: the first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +60,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\shixun\day1" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -75,8 +76,16 @@
       <option name="presentableId" value="Default" />
       <updated>1749448829104</updated>
       <workItem from="1749448831399" duration="1366000" />
-      <workItem from="1749450216724" duration="1603000" />
+      <workItem from="1749450216724" duration="1919000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: the first commit">
+      <created>1749452266674</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749452266674</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +102,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -106,7 +115,15 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: the first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: the first commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="429" y="0" key="CommitChangelistDialog2" timestamp="1749452213570">
+      <screen x="0" y="0" width="1463" height="775" />
+    </state>
+    <state x="429" y="0" key="CommitChangelistDialog2/0.0.1463.775@0.0.1463.775" timestamp="1749452213570" />
     <state x="278" y="142" key="FileChooserDialogImpl" timestamp="1749451962124">
       <screen x="0" y="0" width="1463" height="775" />
     </state>
