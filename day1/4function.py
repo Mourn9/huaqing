@@ -14,6 +14,7 @@ print(sum_numbers(1, 2, 3, 4))  # 10
 double = lambda x: x * 2
 print(double(5))  # 10
 
+
 # 高阶函数
 def apply_func(func, value):
     return func(value)

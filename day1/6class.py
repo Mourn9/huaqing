@@ -16,6 +16,7 @@ class GradStudent(Student):
     def introduce(self):
         return f"I am {self.name}, a {self.major} student."
 
+
 # 使用
 student = Student("Alice", 20)
 grad = GradStudent("Bob", 22, "CS")

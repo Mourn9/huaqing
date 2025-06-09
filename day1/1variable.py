@@ -16,5 +16,6 @@ def my_function():
     x += 1
     print(f"Inside function: x={x}, y={y}")
 
+
 my_function()
 print(f"Outside function: x={x}")

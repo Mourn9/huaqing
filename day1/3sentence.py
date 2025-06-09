@@ -13,6 +13,7 @@ for i in range(5):
         continue
     print(i)
 
+
 # 异常处理
 try:
     num = int(input("Enter a number: "))

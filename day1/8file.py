@@ -7,6 +7,7 @@ with open("example.txt", "r") as f:
     content = f.read()
     print(content)
 
+
 # 处理CSV
 import csv
 with open("data.csv", "w", newline="") as f:
