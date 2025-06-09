@@ -27,8 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e371ba3-ac46-4196-9227-7da04e542606" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/read_pic.py" beforeDir="false" afterPath="$PROJECT_DIR$/read_pic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shixun.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shixun.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -69,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1749448829104</updated>
       <workItem from="1749448831399" duration="1366000" />
-      <workItem from="1749450216724" duration="1288000" />
+      <workItem from="1749450216724" duration="1603000" />
     </task>
     <servers />
   </component>
@@ -101,10 +107,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="142" key="FileChooserDialogImpl" timestamp="1749451746136">
+    <state x="278" y="142" key="FileChooserDialogImpl" timestamp="1749451962124">
       <screen x="0" y="0" width="1463" height="775" />
     </state>
-    <state x="278" y="142" key="FileChooserDialogImpl/0.0.1463.775@0.0.1463.775" timestamp="1749451746136" />
+    <state x="278" y="142" key="FileChooserDialogImpl/0.0.1463.775@0.0.1463.775" timestamp="1749451962124" />
     <state x="0" y="32" key="SettingsEditor" timestamp="1749451762140">
       <screen x="0" y="0" width="1463" height="775" />
     </state>
