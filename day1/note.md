@@ -80,7 +80,7 @@
 ## 11. conda操作
 - `conda--version` 检查Conda 版本
 
-- `conda create -n 环境名 python=版本` 创建新虚拟环境（例如`condacreate-n myenv python=3.9`)
+- `conda create -n 环境名 python=版本` 创建新虚拟环境（例如`conda create -n myenv python=3.9`)
 
 - `conda activate 环境名` 激活虚拟环境(例如`conda activate myenv`)
 
