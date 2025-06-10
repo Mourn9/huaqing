@@ -70,3 +70,6 @@
 
 - 使用tensorboard命令打开`tensorboard --logdir=conv_logs`
 
+### 4. 池化层
+- 池化有最大池化和平均池化
+
