@@ -11,14 +11,14 @@ from day2.model import *
 
 # 准备数据集
 train_data = torchvision.datasets.CIFAR10(root="../dataset_chen",
-                                         train=True,
-                                         transform=torchvision.transforms.ToTensor(),
-                                         download=True)
+                                          train=True,
+                                          transform=torchvision.transforms.ToTensor(),
+                                          download=True)
 
 test_data = torchvision.datasets.CIFAR10(root="../dataset_chen",
                                          train=False,
                                          transform=torchvision.transforms.ToTensor(),
-                                         download=True )
+                                         download=True)
 
 # 数据集长度
 train_data_size = len(train_data)
@@ -27,8 +27,8 @@ print(f"训练数据集的长度{train_data_size}")
 print(f"测试数据集的长度{test_data_size}")
 
 # 加载数据集
-train_loader = DataLoader(train_data,batch_size=64)
-test_loader = DataLoader(test_data,batch_size=64)
+train_loader = DataLoader(train_data, batch_size=64)
+test_loader = DataLoader(test_data, batch_size=64)
 
 # 创建网络模型
 
@@ -40,12 +40,12 @@ loss_fn = nn.CrossEntropyLoss()
 # 优化器
 # learning_rate = 1e-2 相当于(10)^(-2)
 learning_rate = 0.01
-optim = torch.optim.SGD(chen.parameters(),lr=learning_rate)
+optim = torch.optim.SGD(chen.parameters(), lr=learning_rate)
 
 # 设置训练网络的一些参数
-total_train_step = 0 #记录训练的次数
-total_test_step = 0 # 记录测试的次数
-epoch = 10 # 训练的轮数
+total_train_step = 0  # 记录训练的次数
+total_test_step = 0  # 记录测试的次数
+epoch = 10  # 训练的轮数
 
 # 添加tensorboard
 writer = SummaryWriter("../logs_train")
@@ -54,12 +54,12 @@ writer = SummaryWriter("../logs_train")
 start_time = time.time()
 
 for i in range(epoch):
-    print(f"-----第{i+1}轮训练开始-----")
+    print(f"-----第{i + 1}轮训练开始-----")
     # 训练步骤
     for data in train_loader:
         imgs, targets = data
         outputs = chen(imgs)
-        loss = loss_fn(outputs,targets)
+        loss = loss_fn(outputs, targets)
 
         # 优化器优化模型
         optim.zero_grad()  # 梯度清零
@@ -69,7 +69,7 @@ for i in range(epoch):
         total_train_step += 1
         if total_train_step % 500 == 0:
             print(f"第{total_train_step}的训练的loss:{loss.item()}")
-            writer.add_scalar("train_loss",loss.item(),total_train_step)
+            writer.add_scalar("train_loss", loss.item(), total_train_step)
 
     end_time = time.time()
     print(f"训练时间{end_time - start_time}")
@@ -83,20 +83,20 @@ for i in range(epoch):
             imgs, targets = data
             outputs = chen(imgs)
             # 损失
-            loss = loss_fn(outputs,targets)
+            loss = loss_fn(outputs, targets)
             total_test_loss += loss.item()
             # 正确率
             accuracy = (outputs.argmax(1) == targets).sum()
             total_accuracy += accuracy
 
     print(f"整体测试集上的loss:{total_test_loss}")
-    print(f"整体测试集上的正确率：{total_accuracy/test_data_size}")
+    print(f"整体测试集上的正确率：{total_accuracy / test_data_size}")
     writer.add_scalar("test_loss", total_test_loss, total_test_step)
-    writer.add_scalar("test_accuracy",total_accuracy,total_test_step)
+    writer.add_scalar("test_accuracy", total_accuracy, total_test_step)
     total_test_step += 1
 
     # 保存每一轮训练模型
-    torch.save(chen,f"model_save\\chen_{i}.pth")
+    torch.save(chen, f"model_save\\chen_{i}.pth")
     print("模型已保存")
 
 writer.close()
