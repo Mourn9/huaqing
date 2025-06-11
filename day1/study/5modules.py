@@ -1,4 +1,4 @@
-from day1 import mymodule
+from day1.study import mymodule
 
 print(mymodule.say_hello())
 
