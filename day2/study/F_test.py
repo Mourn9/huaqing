@@ -1,5 +1,5 @@
 from PIL import Image
-from day2.study.Emodel import *
+from day2.study.E_model import *
 from torchvision import transforms
 
 image_path = "../Image/img.png"

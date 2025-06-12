@@ -5,7 +5,7 @@ import torchvision
 from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
 
-from day2.study.Emodel import *
+from day2.study.E_model import *
 
 # 准备数据集
 train_data = torchvision.datasets.CIFAR10(root="../dataset_chen",
