@@ -5,7 +5,7 @@ import torchvision
 from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
 
-from day3.study.dataset import ImageTxtDataset
+from day3.study.Bdataset import ImageTxtDataset
 
 # 准备数据集
 train_data = ImageTxtDataset()
