@@ -26,26 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e371ba3-ac46-4196-9227-7da04e542606" name="变更" comment="feat: day1 experiment">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/3maxpool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/4alex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/maxpool_logs/events.out.tfevents.1749543310.mourn.21740.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/model_alex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/model_save_alex/chen_alex.pth" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/cifar.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/2cifar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/1cnn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/model_save/chen_0.pth" beforeDir="false" afterPath="$PROJECT_DIR$/day2/model_save/chen_0.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/model_save/chen_1.pth" beforeDir="false" afterPath="$PROJECT_DIR$/day2/model_save/chen_1.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/model_save/chen_2.pth" beforeDir="false" afterPath="$PROJECT_DIR$/day2/model_save/chen_2.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/model_save/chen_3.pth" beforeDir="false" afterPath="$PROJECT_DIR$/day2/model_save/chen_3.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/model_save/chen_4.pth" beforeDir="false" afterPath="$PROJECT_DIR$/day2/model_save/chen_4.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/model_save/chen_5.pth" beforeDir="false" afterPath="$PROJECT_DIR$/day2/model_save/chen_5.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/model_save/chen_6.pth" beforeDir="false" afterPath="$PROJECT_DIR$/day2/model_save/chen_6.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/model_save/chen_7.pth" beforeDir="false" afterPath="$PROJECT_DIR$/day2/model_save/chen_7.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/model_save/chen_8.pth" beforeDir="false" afterPath="$PROJECT_DIR$/day2/model_save/chen_8.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/model_save/chen_9.pth" beforeDir="false" afterPath="$PROJECT_DIR$/day2/model_save/chen_9.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/train.py" afterDir="false" />
     </list>
     <list id="72e92e42-d23f-47ce-9881-28eef55d9cfc" name="feat: day2" comment="" />
     <list id="67d688c0-5703-41f0-8254-d49e0fb92e39" name="feat: day2 experiment" comment="" />
@@ -83,7 +64,7 @@
     <property name="TODO_SCOPE" value="所有位置" />
     <property name="ToolWindow重复项.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day3/work" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -91,21 +72,25 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\shixun\day3\study" />
+      <recent name="F:\shixun\day3\work" />
+      <recent name="F:\shixun\day3" />
       <recent name="F:\shixun" />
-      <recent name="F:\shixun\day2" />
-      <recent name="F:\shixun\day1" />
+      <recent name="F:\shixun\day2\work" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\shixun\day3\work" />
+      <recent name="F:\shixun\day3\study" />
       <recent name="F:\shixun\Image" />
       <recent name="F:\shixun\day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.work">
-    <configuration name="3maxpool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.day3_work_mobilenet">
+    <configuration name="1activation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="shixun" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,12 +98,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day3/study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2/3maxpool.py" />
+      <option name="SCRIPT_NAME" value="F:\shixun\day3\study\1activation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4alex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="activation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="shixun" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,12 +120,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2/4alex.py" />
+      <option name="SCRIPT_NAME" value="F:\shixun\day3\study\activation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day3_work_googlenet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="shixun" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,12 +142,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day3/work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day3/work/day3_work_googlenet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train_GPU_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day3_work_mobilenet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="shixun" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,12 +164,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day3/work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2/train_GPU_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day3/work/day3_work_mobilenet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="work" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day3_work_resnet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="shixun" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,12 +186,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day3/work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2/work.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day3/work/day3_work_resnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shixun" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day2/study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2/study/train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.work" />
-        <item itemvalue="Python.4alex" />
-        <item itemvalue="Python.3maxpool" />
-        <item itemvalue="Python.train_GPU_1" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.day3_work_mobilenet" />
+        <item itemvalue="Python.day3_work_googlenet" />
+        <item itemvalue="Python.day3_work_resnet" />
+        <item itemvalue="Python.1activation" />
+        <item itemvalue="Python.1activation" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +247,11 @@
       <workItem from="1749448831399" duration="1366000" />
       <workItem from="1749450216724" duration="11574000" />
       <workItem from="1749517931761" duration="9750000" />
-      <workItem from="1749535766946" duration="9632000" />
+      <workItem from="1749535766946" duration="9848000" />
+      <workItem from="1749604177948" duration="407000" />
+      <workItem from="1749604893869" duration="13086000" />
+      <workItem from="1749630936853" duration="3712000" />
+      <workItem from="1749690233454" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary="feat: the first commit">
       <created>1749452266674</created>
@@ -312,7 +323,91 @@
       <option name="project" value="LOCAL" />
       <updated>1749547913194</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: day2 experiment">
+      <created>1749547972230</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749547972230</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: day2 note">
+      <created>1749548123910</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1749548123910</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat: day1 work">
+      <created>1749604987971</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1749604987971</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: day2 work">
+      <created>1749605076186</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1749605076186</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: day1 study">
+      <created>1749606019782</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1749606019782</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat: day1 homework">
+      <created>1749606042893</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1749606042893</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat: day2 study">
+      <created>1749606338953</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1749606338953</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feat: day2 homework">
+      <created>1749606366236</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1749606366236</updated>
+    </task>
+    <task id="LOCAL-00019" summary="feat: day3 study">
+      <created>1749634339882</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1749634339882</updated>
+    </task>
+    <task id="LOCAL-00020" summary="feat: day3 homework--train with other model">
+      <created>1749634421180</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1749634421180</updated>
+    </task>
+    <task id="LOCAL-00021" summary="feat: day3 homework--train with my dataset">
+      <created>1749634446440</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1749634446440</updated>
+    </task>
+    <task id="LOCAL-00022" summary="feat: day3 note">
+      <created>1749635172796</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1749635172796</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,48 +442,63 @@
     <MESSAGE value="feat: add gitignore" />
     <MESSAGE value="feat: day1 experiment" />
     <MESSAGE value="feat: first work" />
-    <MESSAGE value="feat: day2 experiment" />
     <MESSAGE value="feat: day2" />
     <MESSAGE value="feat: day2 work alex" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: day2 work alex" />
+    <MESSAGE value="feat: day2 experiment" />
+    <MESSAGE value="feat: day2 note" />
+    <MESSAGE value="feat: day1 work" />
+    <MESSAGE value="feat: day2 work" />
+    <MESSAGE value="feat: day1 study" />
+    <MESSAGE value="feat: day1 homework" />
+    <MESSAGE value="feat: day2 study" />
+    <MESSAGE value="feat: day2 homework" />
+    <MESSAGE value="feat: day3 study" />
+    <MESSAGE value="feat: day3 homework--train with other model" />
+    <MESSAGE value="feat: day3 homework--train with my dataset" />
+    <MESSAGE value="feat: day3 note" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: day3 note" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="462" y="134" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1749523605650">
+    <state x="456" y="188" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1749630941932">
       <screen x="0" y="0" width="1463" height="775" />
     </state>
-    <state x="462" y="134" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1463.775@0.0.1463.775" timestamp="1749523605650" />
+    <state x="456" y="188" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1463.775@0.0.1463.775" timestamp="1749630941932" />
+    <state x="462" y="134" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1749605943961">
+      <screen x="0" y="0" width="1463" height="775" />
+    </state>
+    <state x="462" y="134" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1463.775@0.0.1463.775" timestamp="1749605943961" />
     <state x="429" y="0" key="CommitChangelistDialog2" timestamp="1749452213570">
       <screen x="0" y="0" width="1463" height="775" />
     </state>
     <state x="429" y="0" key="CommitChangelistDialog2/0.0.1463.775@0.0.1463.775" timestamp="1749452213570" />
-    <state x="278" y="142" key="FileChooserDialogImpl" timestamp="1749459649433">
+    <state x="278" y="142" key="FileChooserDialogImpl" timestamp="1749628042705">
       <screen x="0" y="0" width="1463" height="775" />
     </state>
-    <state x="278" y="142" key="FileChooserDialogImpl/0.0.1463.775@0.0.1463.775" timestamp="1749459649433" />
-    <state width="1420" height="235" key="GridCell.Tab.0.bottom" timestamp="1749547928024">
+    <state x="278" y="142" key="FileChooserDialogImpl/0.0.1463.775@0.0.1463.775" timestamp="1749628042705" />
+    <state width="1420" height="215" key="GridCell.Tab.0.bottom" timestamp="1749635205073">
       <screen x="0" y="0" width="1463" height="775" />
     </state>
-    <state width="1420" height="235" key="GridCell.Tab.0.bottom/0.0.1463.775@0.0.1463.775" timestamp="1749547928024" />
-    <state width="1420" height="235" key="GridCell.Tab.0.center" timestamp="1749547928023">
+    <state width="1420" height="215" key="GridCell.Tab.0.bottom/0.0.1463.775@0.0.1463.775" timestamp="1749635205073" />
+    <state width="1420" height="215" key="GridCell.Tab.0.center" timestamp="1749635205073">
       <screen x="0" y="0" width="1463" height="775" />
     </state>
-    <state width="1420" height="235" key="GridCell.Tab.0.center/0.0.1463.775@0.0.1463.775" timestamp="1749547928023" />
-    <state width="1420" height="235" key="GridCell.Tab.0.left" timestamp="1749547928023">
+    <state width="1420" height="215" key="GridCell.Tab.0.center/0.0.1463.775@0.0.1463.775" timestamp="1749635205073" />
+    <state width="1420" height="215" key="GridCell.Tab.0.left" timestamp="1749635205073">
       <screen x="0" y="0" width="1463" height="775" />
     </state>
-    <state width="1420" height="235" key="GridCell.Tab.0.left/0.0.1463.775@0.0.1463.775" timestamp="1749547928023" />
-    <state width="1420" height="235" key="GridCell.Tab.0.right" timestamp="1749547928024">
+    <state width="1420" height="215" key="GridCell.Tab.0.left/0.0.1463.775@0.0.1463.775" timestamp="1749635205073" />
+    <state width="1420" height="215" key="GridCell.Tab.0.right" timestamp="1749635205073">
       <screen x="0" y="0" width="1463" height="775" />
     </state>
-    <state width="1420" height="235" key="GridCell.Tab.0.right/0.0.1463.775@0.0.1463.775" timestamp="1749547928024" />
+    <state width="1420" height="215" key="GridCell.Tab.0.right/0.0.1463.775@0.0.1463.775" timestamp="1749635205073" />
     <state x="596" y="89" key="RollbackChangesDialog" timestamp="1749538845351">
       <screen x="0" y="0" width="1463" height="775" />
     </state>
     <state x="596" y="89" key="RollbackChangesDialog/0.0.1463.775@0.0.1463.775" timestamp="1749538845351" />
-    <state x="198" y="27" key="SettingsEditor" timestamp="1749524743734">
+    <state x="198" y="27" key="SettingsEditor" timestamp="1749604932669">
       <screen x="0" y="0" width="1463" height="775" />
     </state>
-    <state x="198" y="27" key="SettingsEditor/0.0.1463.775@0.0.1463.775" timestamp="1749524743734" />
+    <state x="198" y="27" key="SettingsEditor/0.0.1463.775@0.0.1463.775" timestamp="1749604932669" />
     <state x="587" y="301" key="VCS.ChangelistChooser" timestamp="1749538983587">
       <screen x="0" y="0" width="1463" height="775" />
     </state>
@@ -403,17 +513,22 @@
     <SUITE FILE_PATH="coverage/shixun$model.coverage" NAME="model Coverage Results" MODIFIED="1749520079932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/shixun$mymodule.coverage" NAME="mymodule Coverage Results" MODIFIED="1749457485590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/shixun$6class.coverage" NAME="6class Coverage Results" MODIFIED="1749454626592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/shixun$activation__1_.coverage" NAME="activation (1) Coverage Results" MODIFIED="1749622829811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3/study" />
     <SUITE FILE_PATH="coverage/shixun$4function.coverage" NAME="4function Coverage Results" MODIFIED="1749454313193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/shixun$2calculation.coverage" NAME="2calculation Coverage Results" MODIFIED="1749454283678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/shixun$1variable.coverage" NAME="1variable Coverage Results" MODIFIED="1749454280641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/shixun$5modules.coverage" NAME="5modules Coverage Results" MODIFIED="1749454588666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/shixun$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1749454653266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/shixun$day3_work_resnet.coverage" NAME="day3_work_resnet Coverage Results" MODIFIED="1749624075532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3/work" />
     <SUITE FILE_PATH="coverage/shixun$cifar.coverage" NAME="cifar Coverage Results" MODIFIED="1749525969086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/shixun$3maxpool.coverage" NAME="3maxpool Coverage Results" MODIFIED="1749543266737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/shixun$3sentence.coverage" NAME="3sentence Coverage Results" MODIFIED="1749454286513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/shixun$train_GPU_1.coverage" NAME="train_GPU_1 Coverage Results" MODIFIED="1749542465409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
-    <SUITE FILE_PATH="coverage/shixun$train.coverage" NAME="train Coverage Results" MODIFIED="1749522511563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/shixun$cnn.coverage" NAME="cnn Coverage Results" MODIFIED="1749525287788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/shixun$train.coverage" NAME="train Coverage Results" MODIFIED="1749622161426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2/study" />
+    <SUITE FILE_PATH="coverage/shixun$day3_work_mobilenet.coverage" NAME="day3_work_mobilenet Coverage Results" MODIFIED="1749631108440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3/work" />
+    <SUITE FILE_PATH="coverage/shixun$activation.coverage" NAME="activation Coverage Results" MODIFIED="1749622323125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/shixun$day3_work_googlenet.coverage" NAME="day3_work_googlenet Coverage Results" MODIFIED="1749625803898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3/work" />
     <SUITE FILE_PATH="coverage/shixun$7file.coverage" NAME="7file Coverage Results" MODIFIED="1749454669920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/shixun$4alex.coverage" NAME="4alex Coverage Results" MODIFIED="1749545201340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/shixun$work.coverage" NAME="work Coverage Results" MODIFIED="1749547545370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
